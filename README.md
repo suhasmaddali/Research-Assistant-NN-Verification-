@@ -2,7 +2,7 @@
 
 __Neural Networks__ are quite used in many industries. There are many __research papers__ being published for __neural networks__. However, there can be outcomes from neural networks that are very different than what is expected when there are adversarial inputs. Therefore, verification tools are designed and implemented to specify the behavior of the neural network along with verifying it's use. 
 
-I'm currently working under [Tan Cheng](https://naizhengtan.github.io/) for Neural Network verification and where I use state-of-the-art tools for building and deploying the neural networks in production. 
+I'm currently working under [Tan Cheng](https://naizhengtan.github.io/) for __Neural Network verification__ and where I use state-of-the-art tools for building and deploying the neural networks in production. 
 My research involves how changing and altering the neural networks leads to the change in outputs. We test whether a given neural network follows a defined specification. 
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Research%20Assistant%20Image.jpg" width = 750/>
